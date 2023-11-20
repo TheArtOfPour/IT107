@@ -4,4 +4,4 @@
 git clone
 
 ## Required Dependencies
-[react js](reactjs.org)
+[React JS](reactjs.org)
