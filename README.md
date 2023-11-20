@@ -1,2 +1,7 @@
 # IT107
-The Good Repo
+
+## Installation Instructions
+git clone
+
+## Required Dependencies
+[react js](reactjs.org)
